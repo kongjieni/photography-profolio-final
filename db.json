@@ -4,67 +4,78 @@
         "id": "1",
         "title": "Garden of the Gods",
         "description": "Canon Rebel T7i; ISO: 100  f/6.3  1/500sec  55mm (Garden of the Gods, Colorado)",
-        "image": "../photos/Garden of the Gods.jpg"
+        "image": "../photos/Garden of the Gods.jpg",
+        "link": "http://localhost:3001/photos/Garden%20of%20the%20Gods.jpg"
     },
     {
         "id": "2",
         "title": "Crystal Mill Portrait",
         "description": "Canon Rebel T7i; ISO: 200  f/9  1/250sec  18mm (Crystal Mill, Colorado)",
-        "image": "../photos/Crystal MIll-1.jpg"
+        "image": "../photos/Crystal MIll-1.jpg",
+        "link": "http://localhost:3001/photos/Crystal%20MIll-1.jpg"
     },
     {
         "id": "3",
         "title": "Crystal Mill Landscape",
         "description": "Canon Rebel T7i; ISO: 200  f/9  1/250sec  18mm (Crystal Mill, Colorado)",
-        "image": "../photos/Crystal MIll-2.jpg"
+        "image": "../photos/Crystal MIll-2.jpg",
+        "link": "http://localhost:3001/photos/Crystal%20MIll-2.jpg"
     },
     {
         "id": "4",
         "title": "Bull Elk",
         "description": " Canon Rebel T7i; ISO: 200  f/5.6  1/60sec  250mm (Telluride, Colorado))",
-        "image": "../photos/Bull Elk Straight.jpg"
+        "image": "../photos/Bull Elk Straight.jpg",
+        "link": "http://localhost:3001/photos/Bull%20Elk%20Straight.jpg"
     },
     {
         "id": "5",
         "title": "Ewe",
         "description": "Canon EOS R; ISO: 200  f/10  1/200sec  300mm (Doctor Park, Colorado)",
-        "image": "../photos/Ewe-3.jpg"
+        "image": "../photos/Ewe-3.jpg",
+        "link": "http://localhost:3001/photos/Ewe-3.jpg"
     },
     {
         "id": "6",
         "title": "Cow Elk",
         "description": "Canon Rebel T7i; ISO: 200  f/5.6  1/60sec  250mm (Telluride, Colorado)",
-        "image": "../photos/Cow Elk.jpg"
+        "image": "../photos/Cow Elk.jpg",
+        "link": "http://localhost:3001/photos/Cow%20Elk.jpg"
     },
     {
         "id": "7",
         "title": "Moon",
         "description": "Canon Rebel T7i; ISO: 400  f/11  1/640sec  352mm (Littleton, Colorado)",
-        "image": "../photos/Moon-2.jpg"
+        "image": "../photos/Moon-2.jpg",
+        "link": "http://localhost:3001/photos/Moon-2.jpg"
     },
     {
         "id": "8",
         "title": "Night Sky at Taylor",
         "description": "Sony A6000; ISO: 3200  f/3.5  30sec  16mm (Taylor Park Reservoir)",
-        "image": "../photos/Night Sky at Taylor.jpg"
+        "image": "../photos/Night Sky at Taylor.jpg",
+        "link": "http://localhost:3001/photos/Night%20Sky%20at%20Taylor.jpg"
     },
     {
         "id": "9",
         "title": "Milky Way With Tree",
         "description": " Canon Rebel T7i; ISO: 6400  f/3.5  20sec  24mm (Jefferson, Colorado)",
-        "image": "../photos/Milky Way w_ Tree-2.jpg"
+        "image": "../photos/Milky Way w_ Tree-2.jpg",
+        "link": "http://localhost:3001/photos/Milky%20Way%20w_%20Tree-2.jpg"
     },
     {
         "id": "10",
         "title": "Gray Star Trails",
         "description": "Canon Rebel T7i; ISO: 400  f/5.6  1861 sec.  18mm (Jefferson, Colorado)",
-        "image": "../photos/Gray Star Trails.jpg"
+        "image": "../photos/Gray Star Trails.jpg",
+        "link": "http://localhost:3001/photos/Gray%20Star%20Trails.jpg"
     },
     {
         "id": "11",
         "title": "Small Rapids",
         "description": "Canon EOS R; (Doctor Park, Colorado)",
-        "image": "../photos/Small Rapids-2.jpg"
+        "image": "../photos/Small Rapids-2.jpg",
+        "link": "http://localhost:3001/photos/Small%20Rapids-2.jpg"
     }
 
 ]}

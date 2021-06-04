@@ -17,11 +17,11 @@ export default class CardContainer extends Component {
   render() {
     return (
     <div className='cards'>
-      <h1>Checkout my work!</h1>
+      <h1>Portfolio</h1>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           {this.state.photos.map(photo => {
-            return <CardItem photo={photo} image={photo.image} key={photo.id} description={photo.description} title={photo.title}/>
+            return <CardItem link={photo.link} photo={photo} image={photo.image} key={photo.id} description={photo.description} title={photo.title}/>
           })}
         </div>
       </div>
