@@ -1,0 +1,83 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.app {
+    width: 100vw;
+    height: 90vh;
+}
+
+.card-container {
+    display: flex;
+    margin: 5px;
+    width: 1000px;
+    height: 450px;
+}
+
+.image {
+    height: 70%;
+    padding: 5px;
+}
+button {
+    border-radius: 20px;
+    padding: 5px;   
+    margin-left: 20px;
+    font-size: 18px;
+}
+p{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10%;
+    max-width: 50%;
+}
+
+.services {
+    display: flex;
+    height: 91vh;
+    align-items: center;
+    justify-content: center;
+    background-image: url('https://images.pexels.com/photos/1183021/pexels-photo-1183021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 55px; 
+}
+
+.about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 91vh;
+    background-image: url('https://images.pexels.com/photos/1183021/pexels-photo-1183021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    flex-direction: column;
+}
+
+.about > h3 {
+    display: flex;
+    height: 50px;
+    color: oldlace;
+    align-items: center;
+}
+
+.about > h4 {
+    height: 50px;
+    color: oldlace;
+}
+
+.about > img {
+   display: flex;
+}
+
+.bio {
+    display: flex;
+    font-size: 15px;
+    color: oldlace;
+    margin-top: 0;
+}
